@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+nav {
+    background-color: rgb(51, 254, 0);
+    text-align: center;
+    padding: 3px;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    border: 2px solid rgb(8, 239, 16);
+}
+
+
+a {
+    color: black;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: solid;
+    margin-top: 40px;
+}
+
+.fname ,input{
+ color: red;
+ background-color: aqua;
+}
+
+
+.diid{
+    border: 2px green solid;
+
+}
+
+.pp{
+    color: rgb(210, 247, 0);
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
